@@ -85,6 +85,8 @@ In this project, we apply different ML techniques , cross vavlidation techniques
 
 ## Integrating MLFoundry experiment tracking and model monitoring system
 
+Reference :- https://pypi.org/project/mlfoundry/
+
 TrueFoundry's MLFoundry experiment tracking and model monitoring system combines the strengths of open-source tools such as MLFlow, Whylogs, and others. It comes with a shareable dashboard where we can keep track of our tests and model, among other things.  We create a client for the MLFoundry repository and assign a project name. To make experiment tracking easier, we assign different names for different experiments as well as different runs. It is a client-side library that allows users to log their experiments, models, metrics, data & features. This data is fed to TrueFoundry’s monitoring systems to generate informative dashboards and insights.
 
 
